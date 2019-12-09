@@ -1,0 +1,6 @@
+# ignore specific files
+
+# Python
+*.cpython*
+.ipynb_checkpoints*
+
